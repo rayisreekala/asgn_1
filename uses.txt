@@ -1,0 +1,2 @@
+we can   multiple folders innto the git .
+and allows the multiple lines of code in its repository.

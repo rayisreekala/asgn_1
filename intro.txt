@@ -1,0 +1,5 @@
+GIT is created by LINUS torvald who also created the LINUX
+repository -- is a place where you have all your codes.
+local repo. -- The duplicate of remote repository
+remote repo. -- The main code stored in the server.
+--- it is a  open source.

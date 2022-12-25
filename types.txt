@@ -1,0 +1,10 @@
+
+---GIT---3DISTRIBUTED VERSION CONTROL SYSTEM  [SOURCE CODE MANAGEMNET]
+--- version system are of 2 types
+ 
+    1. centraliised version system  
+     stooring the versions in servers.   
+
+  2.Distributed version system
+   The process of every  machine having the local
+   repository is called distributed version control system. 
